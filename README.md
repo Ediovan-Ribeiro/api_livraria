@@ -15,7 +15,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/Ediovan-Ribeiro/api_livraria
    ```
 2. Acesse o diretório do projeto:
    ```bash
